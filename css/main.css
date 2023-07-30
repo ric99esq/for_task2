@@ -143,12 +143,9 @@ div,li {
 }
 .access_disposicion{
   display: flex;
-  position: relative; 
-  left: -120px;
 }
 .access_text{
-  width: 200px;
-  text-align: right;
+  width: 80px;
 }
 .maps{
   position: static;
